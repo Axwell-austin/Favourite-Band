@@ -1,0 +1,48 @@
+h1{
+ color: rgb(255, 255, 255); 
+ padding-bottom:2px;
+ padding-left: 100px; 
+border: 1px solid rgb(64, 64, 68);
+text-align: center;
+background-image: url(https://i.ytimg.com/vi/JwuVWxeGaZk/maxresdefault.jpg);
+
+ }
+body{
+    background-color:rgb(217, 237, 243) ;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 5px solid rgb(143, 51, 42);
+    background-image: url(https://fsa.zobj.net/crop.php?r=rRVOpUN9K2yeS4bvorPh2xxzl3xWJt-d8tOfahpn0JU5Hv3WxCpanDQkJH2eCDLo1vKnHMh6AnSon8QDTn7MbX8GrB0d5wb0ME2L6DTohZuw_mShoJdUHNmfm8iT92GpPFqPnY3ENwdEOYOU);
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 10px;
+    font-size: x-large;
+    color: aliceblue;
+}
+ol{
+  border: 2px solid rgb(64, 64, 68);
+  width: 400px;
+  height: 100px;
+  overflow: auto;
+  background-image: url(https://i.ytimg.com/vi/JwuVWxeGaZk/maxresdefault.jpg);
+  color: aliceblue;
+}
+img{
+float: inline-start;
+filter: drop-shadow(2px 2px px black);
+border-radius:20px;
+float: center;
+padding-top: 10px;
+}
+h3{
+    font-style: italic;
+    color: chocolate;
+    font-size: x-large;
+}
+p{
+    color: cornsilk;
+    font-weight: 100;
+  
+}
